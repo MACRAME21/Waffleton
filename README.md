@@ -1,2 +1,2 @@
 # Waffleton
-Best waffles
+Provide names and recipes of the best waffles.
